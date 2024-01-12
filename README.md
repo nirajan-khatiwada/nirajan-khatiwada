@@ -9,11 +9,9 @@
 - 💬 Ask me about **Python,Backend development**
 
 - 📫 How to reach me **nirajankhatiwada29@gmail.com**
+- 👨‍💻 See my portfolio **nirajankhatiwada.com.np**
 
  
-<h3 align="center">👨‍💻 All of my portfolio is available at</h3>
-
- **nirajankhatiwada.com.np**
 <p align="left">
    
 </p>
