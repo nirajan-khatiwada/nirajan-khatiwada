@@ -10,13 +10,12 @@
 
 - 📫 How to reach me **nirajankhatiwada29@gmail.com**
 
-- 
-<h3 align="center">A passionate frontend developer from India</h3>
+ 
+<h3 align="center">👨‍💻 All of my portfolio is available at</h3>
 
-
+ **nirajankhatiwada.com.np**
 <p align="left">
-   👨‍💻 All of my projects are available at 
-  [nirajankhatiwada.com.np](nirajankhatiwada.com.np)
+   
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
