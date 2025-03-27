@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **nirajankhatiwada29@gmail.com**
 - 👨‍💻 See my portfolio : **nirajankhatiwada.com.np**
+- ✍️ See my Blog : **reference.nirajankhatiwada.com.np**
+- 🔥 Working on : **ai.nirajankhatiwada.com.np**
 
  
 <p align="left">
